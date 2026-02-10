@@ -3,20 +3,18 @@
 <h1 align="center">Hi 👋, I'm Mohammad Hamza</h1>
 
 <h3 align="center">A Passionate Techy Guy, Data Engineer, Fullstack Web Developer and a Coding enthusiast.</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=moali007&label=Profile%20views&color=0e75b6&style=flat" alt="moali007" /> </p>
-<img align="right" alt="Coding" width="280" height="220" src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/media/30a1e1fa2d62e32d6b3e592518bfa6e5.gif">
+<p align="center"> </p>
 
 - 🔭 I’m currently working on **Azure Databricks**
 
 - 📫 How to reach me **hamzazafar013@gmail.com**
-
 
 <br/>
 <hr>
 
 <h3 align="center">🧠 Tech Stack & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=databricks,python,cpp,pyspark,java,html,css,js,ts,react,nextjs,nodejs,tailwind,bootstrap,linux,bash,mysql,mongodb,redis,git,github,vercel,figma,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,azure,cpp,java,html,css,js,ts,react,nextjs,nodejs,tailwind,bootstrap,express,postgres,postman,redux,sass,linux,bash,mysql,mongodb,redis,git,github,vercel,figma,vscode&perline=10" />
 </p>
 <hr>
 
